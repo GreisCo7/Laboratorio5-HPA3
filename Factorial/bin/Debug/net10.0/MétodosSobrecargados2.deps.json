@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MétodosSobrecargados2/1.0.0": {
+        "runtime": {
+          "MétodosSobrecargados2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MétodosSobrecargados2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\Users\greis\source\repos\MétodosSobrecargados2\bin\Debug\net10.0\MétodosSobrecargados2.exe
+C:\Users\greis\source\repos\MétodosSobrecargados2\bin\Debug\net10.0\MétodosSobrecargados2.deps.json
+C:\Users\greis\source\repos\MétodosSobrecargados2\bin\Debug\net10.0\MétodosSobrecargados2.runtimeconfig.json
+C:\Users\greis\source\repos\MétodosSobrecargados2\bin\Debug\net10.0\MétodosSobrecargados2.dll
+C:\Users\greis\source\repos\MétodosSobrecargados2\bin\Debug\net10.0\MétodosSobrecargados2.pdb
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\MétodosSobrecargados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\MétodosSobrecargados2.AssemblyInfoInputs.cache
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\MétodosSobrecargados2.AssemblyInfo.cs
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\MétodosSobrecargados2.csproj.CoreCompileInputs.cache
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\MétodosSobrecargados2.dll
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\refint\MétodosSobrecargados2.dll
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\MétodosSobrecargados2.pdb
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\MétodosSobrecargados2.genruntimeconfig.cache
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\ref\MétodosSobrecargados2.dll
+C:\Users\greis\source\repos\MétodosSobrecargados2\obj\Debug\net10.0\M_todosS.93BBA35C.Up2Date
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\bin\Debug\net10.0\MétodosSobrecargados2.exe
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\bin\Debug\net10.0\MétodosSobrecargados2.deps.json
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\bin\Debug\net10.0\MétodosSobrecargados2.runtimeconfig.json
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\bin\Debug\net10.0\MétodosSobrecargados2.dll
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\bin\Debug\net10.0\MétodosSobrecargados2.pdb
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\MétodosSobrecargados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\MétodosSobrecargados2.AssemblyInfoInputs.cache
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\MétodosSobrecargados2.AssemblyInfo.cs
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\MétodosSobrecargados2.csproj.CoreCompileInputs.cache
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\MétodosSobrecargados2.dll
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\refint\MétodosSobrecargados2.dll
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\MétodosSobrecargados2.pdb
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\MétodosSobrecargados2.genruntimeconfig.cache
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\ref\MétodosSobrecargados2.dll
+C:\Users\greis\OneDrive\Documentos\HPA3 - metodos sobrecargados\Factorial\obj\Debug\net10.0\M_todosS.93BBA35C.Up2Date
